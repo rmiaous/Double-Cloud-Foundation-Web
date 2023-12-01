@@ -1,0 +1,13 @@
+@charset "utf-8";
+.body_text {
+	font-style: normal;
+	font-size: 22px;
+	background-color: #F7F7F7;
+	min-height: 0px;
+}
+.table_text {
+	width: 650px;
+	margin: 50;
+	float: left;
+	text-align: center;
+}
