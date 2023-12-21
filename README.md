@@ -1,4 +1,4 @@
-# double-cloud-foundation-web
+# Double Cloud Foundation Website
 
 This is my first website about non-profits and charities.
 
