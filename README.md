@@ -1,11 +1,7 @@
 # Double Cloud Foundation Website
 
-This is my first website about non-profits and charities.
+This non-profit website is about helping and supporting children and mothers.
 
-Home Page: helping and supporting children, mothers, and people with disabilities.
+Children: Many children need help because of the abandonment of their parents and the poverty of their families.
 
-About Us: DCF is a non-profit website.
-
-Child: Many children need help because of the abandonment of their parents and the poverty of their families.
-
-Mother: Many mothers are suffering from the loss of a husband and a job.
+Mothers: Many mothers are suffering from losing a husband and a job.
